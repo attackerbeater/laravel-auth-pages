@@ -16,13 +16,4 @@ class Employee extends Model
 
     protected $perPage = 10;
 
-    // public function creator()
-    // {
-    //     return $this->belongsTo(User::class);
-    // }
-
-    // public function company()
-    // {
-    //     return $this->belongsTo(Test::class);
-    // }
 }
